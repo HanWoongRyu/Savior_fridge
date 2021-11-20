@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">냉장고를 부탁해</string>
+    <string name="capture_item">음식 사진찍기</string>
+    <string name="todo">TODO</string>
+    <string name="signup">회원가입</string>
+    <string name="login">로그인</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="loginbtn">로그인</string>
+    <string name="newsignup">신규 회원가입</string>
+    <string name="findps">패스워드가 기억나지 않습니까?</string>
+    <string name="capturebill">영수증 사진찍기</string>
+    <string name="logout">로그아웃</string>
+    <string name="openRefri">냉장고 열기</string>
+</resources>

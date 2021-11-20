@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "987262741380",
+    "project_id": "myrefri2",
+    "storage_bucket": "myrefri2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987262741380:android:c88b4d2fbe529e93ba4bd1",
+        "android_client_info": {
+          "package_name": "com.example.myRefri02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987262741380-h9jrti88fgg1dfk2dd90hf4gv8i5li4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myRefri02",
+            "certificate_hash": "60062297c1cdf62a86d12004d9df41f61f452202"
+          }
+        },
+        {
+          "client_id": "987262741380-6mvo8eu20b9mq37d33kgrjee873nmrsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIkIeVSFHft9DwMdBn2KiO2Td0guKO8wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987262741380-6mvo8eu20b9mq37d33kgrjee873nmrsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
